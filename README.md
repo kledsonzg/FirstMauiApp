@@ -2,7 +2,7 @@
 
 <div style="float:left; width: 100%;">    
     <div style="float:left; width: 100%; border-style: solid;">
-        <img style="width: 50%; float: left;" src="https://raw.githubusercontent.com/kledsonzg/FirstMauiApp/77653fc2065bb4fa8493d68a44649d3550e69f44/Resources/AppIcon/kicon.svg"/>
+        <img style="width: 50%; float: left;" src="https://raw.githubusercontent.com/kledsonzg/FirstMauiApp/2fa1014e05cd10181be14020b84a7b886acc10b8/Resources/AppIcon/kicon.svg"/>
         <p style="text-align: center; font-size: large; margin-left: 10%; padding-top: 20px;">Meu primeiro app feito em .NET MAUI! Segui o tutorial do <b>James Montemagno</b>, no canal oficial da Microsoft no youtube chamado '<b>dotnet</b>'.</p>
         <p style="font-weight: bold; font-size: x-large; text-align: center;">Link abaixo:</p>
         <div style="float: left; width: 50%;">
