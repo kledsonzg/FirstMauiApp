@@ -4,7 +4,7 @@
              x:Class="MauiApp1.DetailPage"
              xmlns:viewmodel="clr-namespace:MauiApp1.ViewModel"
              x:DataType="viewmodel:DetailViewModel"
-             Title="DetailPage">
+             Title="Detalhes">
     <VerticalStackLayout Padding="20">
         <Label 
             Text="{Binding Text}"
