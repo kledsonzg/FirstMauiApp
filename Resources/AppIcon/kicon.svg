@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="89.172226mm"
+   height="83.345627mm"
+   viewBox="0 0 89.172226 83.345627"
+   version="1.1"
+   id="svg5"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.0444209"
+     inkscape:cx="195.32355"
+     inkscape:cy="412.66887"
+     inkscape:window-width="1280"
+     inkscape:window-height="953"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="178.73656"
+       y="357.47311"
+       width="476.6308"
+       height="487.46332"
+       id="rect236" />
+    <rect
+       x="178.73656"
+       y="357.47311"
+       width="476.6308"
+       height="487.46332"
+       id="rect236-8" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-9.1198857,-64.092543)">
+    <g
+       id="g3550">
+      <rect
+         style="fill:#512bd4;fill-opacity:1;stroke-width:0.466"
+         id="rect1004"
+         width="89.172218"
+         height="83.345619"
+         x="9.1198864"
+         y="64.092537" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.56545493,0,0,0.65094334,-72.0252,-111.77558)"
+         id="text234-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.1991px;font-family:Georgia;-inkscape-font-specification:'Georgia, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect236-8);display:inline;fill:#ffffff;fill-opacity:1;stroke-width:1.76126"><tspan
+           x="178.73633"
+           y="376.59891"
+           id="tspan3597">MauiApp</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="matrix(1.4518817,0,0,1.0729035,-231.84579,-318.01549)"
+         id="text234"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:47.3792px;font-family:Stencil;-inkscape-font-specification:'Stencil, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect236);fill:#ffffff;fill-opacity:1;stroke-width:1.76126"><tspan
+           x="178.73633"
+           y="410.77426"
+           id="tspan3599">K</tspan></text>
+      <rect
+         style="fill:#6640e9;fill-opacity:1;stroke-width:0.0663823"
+         id="rect2762"
+         width="12.666505"
+         height="11.906509"
+         x="81.065651"
+         y="72.199104"
+         ry="5.9532547"
+         rx="6.3332524" />
+      <rect
+         style="fill:#5930e9;fill-opacity:1;stroke-width:0.0444568"
+         id="rect2816"
+         width="8.6132221"
+         height="7.8532267"
+         x="70.679115"
+         y="70.172462"
+         ry="3.9266133"
+         rx="4.3066111" />
+    </g>
+  </g>
+</svg>
